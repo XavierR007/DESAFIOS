@@ -1,0 +1,15 @@
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\bin\Debug\net6.0\PRIMER DESAFIO.exe
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\bin\Debug\net6.0\PRIMER DESAFIO.deps.json
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\bin\Debug\net6.0\PRIMER DESAFIO.runtimeconfig.json
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\bin\Debug\net6.0\PRIMER DESAFIO.dll
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\bin\Debug\net6.0\PRIMER DESAFIO.pdb
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.AssemblyInfo.cs
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.dll
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\refint\PRIMER DESAFIO.dll
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.pdb
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\PRIMER DESAFIO.genruntimeconfig.cache
+C:\Users\charl\Desktop\DESAFIO1\PRIMER DESAFIO\obj\Debug\net6.0\ref\PRIMER DESAFIO.dll

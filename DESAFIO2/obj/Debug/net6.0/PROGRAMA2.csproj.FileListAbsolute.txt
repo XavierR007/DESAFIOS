@@ -1,0 +1,15 @@
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\bin\Debug\net6.0\PROGRAMA2.exe
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\bin\Debug\net6.0\PROGRAMA2.deps.json
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\bin\Debug\net6.0\PROGRAMA2.runtimeconfig.json
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\bin\Debug\net6.0\PROGRAMA2.dll
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\bin\Debug\net6.0\PROGRAMA2.pdb
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.AssemblyInfo.cs
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.dll
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\refint\PROGRAMA2.dll
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.pdb
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\PROGRAMA2.genruntimeconfig.cache
+C:\Users\charl\Desktop\CALCULADORA2\PROGRAMA2\obj\Debug\net6.0\ref\PROGRAMA2.dll

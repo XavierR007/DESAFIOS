@@ -1,0 +1,15 @@
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\bin\Debug\net6.0\DESAFIO3.exe
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\bin\Debug\net6.0\DESAFIO3.deps.json
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\bin\Debug\net6.0\DESAFIO3.runtimeconfig.json
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\bin\Debug\net6.0\DESAFIO3.dll
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\bin\Debug\net6.0\DESAFIO3.pdb
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.AssemblyInfo.cs
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.dll
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\refint\DESAFIO3.dll
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.pdb
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\DESAFIO3.genruntimeconfig.cache
+C:\Users\charl\Desktop\DESAFIO3\DESAFIO3\obj\Debug\net6.0\ref\DESAFIO3.dll
